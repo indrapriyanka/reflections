@@ -24,3 +24,11 @@ So that it could be restored at any time even when a bug arises
 Lesson 1 chapter 31
 Now that you have your workspace set up, what do you want to try using Git for?
 In my dev for versions
+
+
+Lesson 3
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+in stagging area you can decide upon commiting more than one file together in one commit. it helps to reduce the time.
+
+---Test adding this line----
